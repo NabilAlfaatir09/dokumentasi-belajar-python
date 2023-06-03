@@ -1,0 +1,5 @@
+print("=============================")
+print("nama     : Nabil Alfaatir")
+print("kelas    : 17.1A.12")
+print("jurusan  : teknologi informasi")
+print("=============================")
